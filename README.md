@@ -8,14 +8,13 @@ I'm a passionate **Web Developer** dedicated to building sleek, user-friendly we
 
 ### [Multizen Browser](https://github.com/multizenteam/multizen-browser)
 ![Multizen Browser](https://github-readme-stats.vercel.app/api/pin/?username=multizenteam&repo=multizen-browser&theme=default)
-- **Stars:** 77+
+
 - An innovative open-source browser project focusing on speed, security, and a minimalistic design.
 - [Explore the project →](https://github.com/multizenteam/multizen-browser)
 
 ### [Tradie](https://github.com/oboshto/tradie)
 ![Multizen Browser](https://github-readme-stats.vercel.app/api/pin/?username=oboshto&repo=tradie&theme=default)
 
-- **Stars:** 20
 - Open-sourced solana trading bot
 - [Check it out →](https://github.com/oboshto/tradie)
 
